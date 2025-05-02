@@ -1,0 +1,11 @@
+What is the capital of France?;Paris
+What is 5 multiplied by 6?;30
+Who discovered gravity?;Isaac Newton
+What is the chemical symbol for water?;H2O
+Which planet is known as the Red Planet?;Mars
+What is the tallest mountain in the world?;Mount Everest
+What is the boiling point of water in Celsius?;100
+What is the largest ocean on Earth?;Pacific Ocean
+What is the capital of Japan?;Tokyo
+What is the square root of 64?;8 
+There is the problem that after ending cards., Im not getting achievements

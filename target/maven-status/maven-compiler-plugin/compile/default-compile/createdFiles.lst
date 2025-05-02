@@ -1,0 +1,4 @@
+com\flashcard\FlashCardApp.class
+com\flashcard\CardOrganizer.class
+com\flashcard\RecentMistakesFirstSorter.class
+com\flashcard\AchievementTracker.class
